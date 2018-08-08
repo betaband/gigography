@@ -20,10 +20,9 @@ Source: http://betaband.co.uk/gigography/
 
 ## 1997
 
-### Debut Gig 
-1997-07-23 London Water Rats
+1997-07-23 London Water Rats (debut gig)
 
-1997-08-09 Bath Moles (supporting The Egg)
+1997-08-09 Bath Moles (supporting The Egg) (second gig)
 
 1997-08-24 Reading Festival
 
